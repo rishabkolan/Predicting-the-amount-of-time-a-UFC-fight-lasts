@@ -1,13 +1,14 @@
-# 🏏 Predicting the auction price of cricket players in the IPL
-This project predicts the auction price of each cricket player in the IPL. This will be done using machine learning techniques, mainly through regression models. Libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn will be utilized. 
+# 🥋 Predicting the amount of time a UFC fight lasts
+
+This project predicts the amount of time a UFC fight lasts. This will be done using machine learning techniques. Libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn will be utilized. 
 
 ---
 
 ## 🔍 Problem Overview
 
-Teams are often concerned with how much budget to allocate to each player. They don't want to spend too much on a player as they may not deliver the same value. Understanding the price of a player based on their performance and demand is key. 
+On betting apps such as Draftkings, fans can predict on specific details of a UFC fight including how long it would last. This model would aim to assist them in the prediction of the amount of time a fight would last. 
 
-The goal: To create a model that predicts the expected price of a player to support team budgeting for auctions. 
+The goal: To create a model that predicts the amount of time a UFC fight lasts to assist fans with betting. 
 
 ---
 
