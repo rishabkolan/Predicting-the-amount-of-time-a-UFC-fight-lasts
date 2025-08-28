@@ -1,4 +1,4 @@
-# 🏏 Predicting-the-auction-price-of-cricket-players-in-the-IPL
+# 🏏 Predicting the auction price of cricket players in the IPL
 This project predicts the auction price of each cricket player in the IPL. This will be done using machine learning techniques, mainly through regression models. Libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn will be utilized. 
 
 ---
