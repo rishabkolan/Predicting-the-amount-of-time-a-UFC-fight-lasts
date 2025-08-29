@@ -1,4 +1,4 @@
-# 🥋 Predicting the amount of time a UFC fight lasts
+# 🥋 UFC Fight Duration Prediction
 
 This project predicts the amount of time a UFC fight lasts. This will be done using machine learning techniques. Libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn will be utilized. 
 
